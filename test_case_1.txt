@@ -1,0 +1,22 @@
+[* this is comment for this sample code which
+   converts  Fahrenheit into Celcius *]
+[*Lots of comments   *]
+
+$$
+     int    low,  high, step;      [* declarations *]
+
+     get (low, high, step);
+     
+[*Now we have a problem below. We need to make sure low and high share the same type*]
+
+[*     12234 asdfasd asd!#@$@#%!   @#$ 23 SD MORE TO WRITE *]
+[* MORE HERE*]
+[* sample comments... ..,?/ *]
+
+	while (low  <  high )  
+         {  put (low);
+             low =  low  +  step;
+         } 
+      whileend
+
+ $$

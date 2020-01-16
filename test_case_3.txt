@@ -1,0 +1,35 @@
+ 
+
+function convert (fahr, x : int)
+{
+           return 5*(fahr -32)/9;
+}
+
+function convertx (x:real,  y:boolean)
+boolean  k, z;
+real     x;
+{ 
+    if (x > y) 
+       x = false;
+    ifend
+    if ( y ^= z) 
+       x = true;
+    else y = 123.45;
+    ifend
+    return;
+}
+
+
+$$
+     int    low, high, step;
+
+     get (low, high, step);
+     while (low =< high)
+        {  put (convert(low) );
+           low = low + step;
+        } 
+      whileend
+$$
+
+
+
